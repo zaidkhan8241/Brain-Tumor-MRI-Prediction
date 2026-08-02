@@ -115,18 +115,6 @@ The model successfully classifies brain MRI images into four categories with app
 
 ---
 
-## Future Improvements
-
-- Grad-CAM visualization for explainable AI
-- Docker containerization
-- Cloud deployment
-- TensorBoard integration
-- Model explainability with SHAP
-- REST API using FastAPI
-- Support for batch image prediction
-
----
-
 ## Project Files
 
 - `app.py` - Streamlit application entry point
